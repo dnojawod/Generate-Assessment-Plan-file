@@ -12,6 +12,6 @@ The software, Student Outcomes Assessment and Evaluation Plan, is a computerized
 6. Once the necessary information hs been provided, the program imports the necessary excel files from each course, containing specified assessment tools, and computes for the students’ average ratings per quarter and school year.
 7. The program then processes and generates the excel file that contains the assessment plan named "Assessment_Plan" which is saved under the "Assessment_Plan Version4.0" file.
 8. Once completed, a prompt will be displayed that tells the user about the generated Assessement Plan file.
-##Acknowledgements
+## Acknowledgements
 This is a partial program for the Assessment Plan Web Application project in partial fulfillment of the requirements for the course COE131L, System Analysis and Design Laboratory, under Engr. Meo Vincent Caya.
 The Assessment Plan Web Application project can be viewed here: https://github.com/dnojawod/Assessment-Plan-Web-App
