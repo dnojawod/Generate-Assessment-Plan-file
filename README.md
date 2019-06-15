@@ -16,4 +16,4 @@
 >This is an Assessment Plan Desktop Application, a partial program for the Assessment Plan Web Application project in partial fulfillment of the requirements for the course COE131L, System Analysis and Design Laboratory, under Engr. Meo Vincent Caya, Mapúa University, Intramuros, Manila, Philippines.
 The Assessment Plan Web Application project can be viewed here: https://github.com/dnojawod/Assessment-Plan-Web-App
 
->COE131L-C1-2Q1819 Group 2
+COE131L-C1-2Q1819 
