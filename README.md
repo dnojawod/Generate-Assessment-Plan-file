@@ -6,7 +6,7 @@
 ### Execution of the Assessment Plan Program
 >1. Download the "Assessment_Plan Version4.0" File
 >2. Place the excel files containing the students' grades on the "files" folder under the "Assessment_Plan Version4.0" file (e.g., 1QSY1617_ECE131L_A1).
->3. Open Visual Studio application and execute program solution.
+>3. Open Visual Studio application, execute program solution, and Excel reference library with Microsoft Excel 16.0 Object Library.
 >4. Build and run the program.
 >5. Enter the starting quarter and school year (e.g., 2 1516) then click "Generate Assessment Plan".
 >6. Once the necessary information hs been provided, the program imports the necessary excel files from each course, containing specified assessment tools, and computes for the students’ average ratings per quarter and school year.
